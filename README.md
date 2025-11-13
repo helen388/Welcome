@@ -286,7 +286,7 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: info@helenskitchen.uk</p>
+  <p>Email: helen@helenskitchen.uk</p>
   <p>Address: 45 Newnham St, Bedford MK40 3JR</p>
 </section>
 
