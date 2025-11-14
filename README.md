@@ -177,7 +177,6 @@
   <div class="menu-item">
     <h3>Allitis Pitta</h3>
     <p>A homemade Classic from our own Greek Legend Helen. Beef Mince Meat on a pitta bread, served with a little salad and Authentic Greek Yogurt.</p>
-    <div class="price">£7.00</div>
   </div>
 
   <div class="menu-item">
