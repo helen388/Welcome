@@ -160,7 +160,7 @@
     Welcome to Helen’s Greek Kitchen at The Three Cups Pub — where the charm of a classic English pub meets the fiery heart of Greek cooking. Helen brings her passion straight from the islands — bold flavours, no shortcuts, and a little bit of drama in every dish. From moussaka and spanakopita to perfectly grilled souvlaki and creamy tzatziki, every bite tells a story — one that usually ends with “just one more plate.”<br><br>
     The Three Cups keeps the drinks flowing — crisp pints, fine wines, and the occasional cheeky ouzo. It’s the best of both worlds: a British pub with a Greek soul.<br><br>
     Whether you’re here for a quiet pint, a lively dinner, or to argue over who makes the best baklava, you’ll always find good food, good company, and a warm welcome.<br><br>
-    <strong>Order from 15:00 to 22:00</strong><br>
+    <strong>Order from 15:00 to 21:30</strong><br>
     Greek + Mediterranean + Hot food<br>
     Collection + Table orders<br>
     Order from Table QR Code
